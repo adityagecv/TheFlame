@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/cyberix3d/extensions/WindowsExtensionWrapper" mod="1598839803134" signatureChecksum="967879037" >
+        <def id="com.cyberix3d.extensions:WindowsExtensionWrapper" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_37a5917b3d596ef3fb4dd099a0d1e6eef9ad1ff32cd3f6b8cda83bb3828a75af_flash_display_Sprite" mod="1598839804682" signatureChecksum="1686273361" >
+        <def id="_37a5917b3d596ef3fb4dd099a0d1e6eef9ad1ff32cd3f6b8cda83bb3828a75af_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="441cab3cab37b9fe0ec52f699ebd5d0e20849e0fa172fbc7025ad2a9e65c0602"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
